@@ -2,8 +2,8 @@
 ### Eu sou AllanDav1d 
  <div>
   <a href="https://github.com/allandav1d">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allandav1d&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandav1d&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allandav1d&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandav1d&layout=compact&langs_count=8&bg_color=-30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
